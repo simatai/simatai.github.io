@@ -5,7 +5,7 @@
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273861/
  
-https://doi.org/10.3389/fmicb.2016.01887
+[Evaluation of Machine Learning and Rules-Based Approaches for Predicting Antimicrobial Resistance Profiles in Gram-negative Bacilli from Whole Genome Sequence Data](https://doi.org/10.3389/fmicb.2016.01887)
 
 
 http://dx.doi.org/10.1371/journal.pone.0055582
