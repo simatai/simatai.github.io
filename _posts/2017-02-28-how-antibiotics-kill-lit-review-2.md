@@ -5,7 +5,7 @@ layout: post
 ---
 
 
-From the review article [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896384/pdf/nihms210832.pdf] by Kohanski et al (2010):
+From the [review article by Kohanski et al (2010)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896384/pdf/nihms210832.pdf):
 
 > [...] researchers have developed methods to construct quantitative models of regulatory networks 
 > 118–122, and have recently used these reconstructed network models to identify the sets of genes, 
