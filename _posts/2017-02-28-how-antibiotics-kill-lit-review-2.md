@@ -1,0 +1,13 @@
+
+
+From the review article [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896384/pdf/nihms210832.pdf] by Kohanski et al (2010):
+
+> The discovery of the common oxidative damage cellular death pathway has important
+> implications for the development of more effective antibacterial therapies. Specifically, it
+> indicates that all major classes of bactericidal drugs can be potentiated by inhibition of the
+> DNA stress response network (i.e., the SOS response), which plays a key part in the remediation
+> of hydroxyl radical-induced DNA damage. This may be accomplished through the
+> development of small molecules (e.g., RecA inhibitors 125) or synthetic biology approaches
+> (see Box 2).
+
+I wonder if anyone ever took this up. A quick check on Scholar did not bring immediate insight.
