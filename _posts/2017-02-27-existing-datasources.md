@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Existing datasources on antibiotic resistance research
+date: 2017-02-27
 ---
+
 
 [Comprehensive Antibiotic Resistance Database, CARD](https://card.mcmaster.ca/home)  https://card.mcmaster.ca/home
 
