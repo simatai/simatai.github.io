@@ -7,6 +7,11 @@ layout: post
 
 From the review article [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896384/pdf/nihms210832.pdf] by Kohanski et al (2010):
 
+> [...] researchers have developed methods to construct quantitative models of regulatory networks 
+> 118–122, and have recently used these reconstructed network models to identify the sets of genes, 
+> associated functional groups and biochemical pathways that act in concert to mediate bacterial 
+> responses to antibiotics 8–10, 119
+
 > The discovery of the common oxidative damage cellular death pathway has important
 > implications for the development of more effective antibacterial therapies. Specifically, it
 > indicates that all major classes of bactericidal drugs can be potentiated by inhibition of the
