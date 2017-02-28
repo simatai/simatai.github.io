@@ -1,6 +1,7 @@
 ---
 title: Existing datasources on antibiotic resistance research
 date: 2017-02-27
+layout: post
 ---
 
 
