@@ -1,6 +1,7 @@
 ---
 title: "Intro: the what & the why"
 date: 2017-02-26
+layout: post
 ---
 
 ## Antibiotic resistance is a problem
