@@ -4,10 +4,10 @@ date: 2017-02-26
 layout: post
 ---
 
-## Antibiotic resistance is a problem
+# Antibiotic resistance is a problem
 ... which is why this blog will be dedicated to reporting work on **applications of Machine Learning and methods of Artificial Intelligence to the problem of antibiotics resistance**. There was a recent *[Call to Arms on arxiv](https://arxiv.org/pdf/1607.01224.pdf)*, and since I was looking for an interesting and important problem to spend some leisure on, I thought this is it. 
 
-## Research agenda
+# Research agenda
 
 + *Understand the work that's out there already*.
   There is quite a bit of work already out there, which [I shall review here](https://simatai.github.io/2017/02/28/literature-review.html).
