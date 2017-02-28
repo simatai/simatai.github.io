@@ -1,3 +1,8 @@
+---
+title: "Lit notes: How antibiotics kill bacteria: from targets to networks (2010)"
+date: 2017-02-28
+layout: post
+---
 
 
 From the review article [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2896384/pdf/nihms210832.pdf] by Kohanski et al (2010):
