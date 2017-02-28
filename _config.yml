@@ -1,1 +1,17 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Antibiotics resistance
+email: 
+description: ""
+baseurl: ""
+url: "http://simatai.github.io"
+github_username:  simatai
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
