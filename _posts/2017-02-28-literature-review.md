@@ -4,10 +4,7 @@ date: 2017-02-28
 layout: post
 ---
 
-### Books
-
-Jun Lin (ed.) et al. [*Mechanisms of antibiotic resistance*](http://www.frontiersin.org/books/Mechanisms_of_antibiotic_resistance/547) (2015)
-The book is available for free from Frontiers.
+I surveyed existing literature and applications of Machine Learning on the problem of antibiotics resistance. While two teams focused on predicting resistance characteristics from genome data, one team applied ML to protein binding data to aid drug discovery. I also put together information on known biochemical mechanisms of antibiotics and a few references on in-silico experiments in drug discovery or antibiotics resistance.
 
 ### Introductory articles on the why, what and social mechanisms
 
@@ -17,16 +14,16 @@ The book is available for free from Frontiers.
 
 ### Machine learning and AI in drug and antibiotics discovery
 
-Santerre, [Stevens](https://www.anl.gov/contributors/rick-stevens) et al. (2016): [Machine Learning for Antimicrobial Resistance](https://arxiv.org/pdf/1607.01224.pdf) used genome data from the [PATRIC](https://www.patricbrc.org) database to train a random forest to predict if a given genome leads to a phenotype resistant to antibiotics. PATRIC contains annotated genomes, i.e. there are labels available like ''susceptible to antibiotics'' versus ''non-susceptibe''. They were able to generate a list of top gene regions potentially responsible for AMR (by PATRIC ID), identified
+Santerre, [Stevens](https://www.anl.gov/contributors/rick-stevens) et al. (2016): **[Machine Learning for Antimicrobial Resistance](https://arxiv.org/pdf/1607.01224.pdf)** used genome data from the [PATRIC](https://www.patricbrc.org) database to train a random forest to predict if a given genome leads to a phenotype resistant to antibiotics. PATRIC contains annotated genomes, i.e. there are labels available like ''susceptible to antibiotics'' versus ''non-susceptibe''. They were able to generate a list of top gene regions potentially responsible for AMR (by PATRIC ID), identified
 from feature importance calculated using RF (the paper shows example for tuberculosis MTB).
 
-[Durrant](https://amarolab.ucsd.edu/~jdurrant/) and Amaro (2015): [Machine-Learning Techniques Applied to Antibacterial Drug Discovery](https://doi.org/10.1111/cbdd.12423)
+[Durrant](https://amarolab.ucsd.edu/~jdurrant/) and Amaro (2015): **[Machine-Learning Techniques Applied to Antibacterial Drug Discovery](https://doi.org/10.1111/cbdd.12423)**
 Also available from [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273861/).
  
-[Pesesky](http://www.dantaslab.org/people/) et al. (2016): [Evaluation of Machine Learning and Rules-Based Approaches for Predicting Antimicrobial Resistance Profiles in Gram-negative Bacilli from Whole Genome Sequence Data](https://doi.org/10.3389/fmicb.2016.01887)
+[Pesesky](http://www.dantaslab.org/people/) et al. (2016): **[Evaluation of Machine Learning and Rules-Based Approaches for Predicting Antimicrobial Resistance Profiles in Gram-negative Bacilli from Whole Genome Sequence Data](https://doi.org/10.3389/fmicb.2016.01887)**
 tries to come up with a *genotype-based antibiotic susceptibility prediction (GBASP)* algorithm (i.e. predict resistance from the genome rather than the phenotype) that ''could more rapidly provide all of the information given by current phenotypic AST methods'' (i.e. grow'em kill'em-lab-approach), especially susceptibility information. They used the whole genome as input into their models (one ML, one rules-based, probably a decision tree?). They also [reviewed data quality and congruence across several genomics databases](https://simatai.github.io/2017/02/27/existing-datasources/). To *translate resistance gene identifications into resistance and susceptibility predictions*, they compared a rules-based algorithm to a machine learning approach on the ''resistance profiles of 78 previously characterized genome-sequenced Enterobacteriaceae isolates (Pesesky et al., 2015) to 12 antibiotics.''
 
-Coelho et al. (2013): [The Use of Machine Learning Methodologies to Analyse Antibiotic and Biocide Susceptibility in Staphylococcus aureus](http://dx.doi.org/10.1371/journal.pone.0055582)
+Coelho et al. (2013): **[The Use of Machine Learning Methodologies to Analyse Antibiotic and Biocide Susceptibility in Staphylococcus aureus](http://dx.doi.org/10.1371/journal.pone.0055582)**
 
 ### In silico experiments on drug resistance
 
@@ -39,6 +36,9 @@ Coelho et al. (2013): [The Use of Machine Learning Methodologies to Analyse Anti
 On the SOS pathway:
 
 https://doi.org/10.1111/1574-6976.12077
+
+Jun Lin (ed.) et al. [*Mechanisms of antibiotic resistance*](http://www.frontiersin.org/books/Mechanisms_of_antibiotic_resistance/547) (2015)
+The book is available for free from Frontiers. At first glance a pretty disappointing collection of seemingly random articles somehow related to the overall topic.
 
 ### Technology and resistance diagnostics
 
