@@ -14,6 +14,8 @@ I surveyed existing literature and applications of Machine Learning on the probl
 
 ### Machine learning and AI in drug and antibiotics discovery
 
+ Yang et al. (2016): **[ARGs-OAP: online analysis pipeline for antibiotic resistance genes detection from metagenomic data using an integrated structured ARG-database](https://doi.org/10.1093/bioinformatics/btw136)**
+
 Santerre, [Stevens](https://www.anl.gov/contributors/rick-stevens) et al. (2016): **[Machine Learning for Antimicrobial Resistance](https://arxiv.org/pdf/1607.01224.pdf)** used genome data from the [PATRIC](https://www.patricbrc.org) database to train a random forest to predict if a given genome leads to a phenotype resistant to antibiotics. PATRIC contains annotated genomes, i.e. there are labels available like ''susceptible to antibiotics'' versus ''non-susceptibe''. They were able to generate a list of top gene regions potentially responsible for AMR (by PATRIC ID), identified from feature importance calculated using RF (the paper shows example for tuberculosis MTB).
 
 [Durrant](https://amarolab.ucsd.edu/~jdurrant/) and Amaro (2015): **[Machine-Learning Techniques Applied to Antibacterial Drug Discovery](https://doi.org/10.1111/cbdd.12423)**
