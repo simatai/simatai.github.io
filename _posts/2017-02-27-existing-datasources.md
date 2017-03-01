@@ -10,13 +10,13 @@ I surveyed existing, publicly available data sources that could be sources for d
 
 [Pathosystems Resource Integration Center](https://www.patricbrc.org/) collects ''known antibiotic resistance genes from reputed external databases and publications'' and ''incorporates antibiotic susceptibility testing results as additional genome metadata.'' It also contains the genomes of bacteria. Its data was used in [https://arxiv.org/pdf/1607.01224.pdf](https://arxiv.org/pdf/1607.01224.pdf).
 
-[Comprehensive Antibiotic Resistance Database, CARD](https://card.mcmaster.ca/home)  https://card.mcmaster.ca/home
+[Comprehensive Antibiotic Resistance Database, CARD](https://card.mcmaster.ca/home) is a database of resistance genes, their products and associated phenotypes. It was used e.g. in [10.3389/fmicb.2016.01887](https://doi.org/10.3389/fmicb.2016.01887), but seemed not to perform well on their specific sample when it came to predicting resistance in phenotypes from genome information.
 
-Database of resistance genes, their products and associated phenotypes.
+[Resfams](http://www.dantaslab.org/resfams/) was closest to the phenotypic results in [10.3389/fmicb.2016.01887](https://doi.org/10.3389/fmicb.2016.01887) [it should really be noted that eh, the authors of the paper work for the same institution as the guys building Resfams].
 
-[Antibiotic Resistance Genes Database, ARGD](https://ardb.cbcb.umd.edu/) https://ardb.cbcb.umd.edu/
+[ResFinder](https://cge.cbs.dtu.dk/services/ResFinder/) 
 
-No longer maintained (last update 2009), all data can be found in CARD. Flat files are available for download.
+[Antibiotic Resistance Genes Database, ARGD](https://ardb.cbcb.umd.edu/) is no longer maintained (last update 2009), all data can be found in CARD. Flat files are available for download.
 
 ### Databases on molecular interactions
 
