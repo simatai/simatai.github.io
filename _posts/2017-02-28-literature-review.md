@@ -24,6 +24,7 @@ from feature importance calculated using RF (the paper shows example for tubercu
 Also available from [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273861/).
  
 [Pesesky](http://www.dantaslab.org/people/) et al. (2016): [Evaluation of Machine Learning and Rules-Based Approaches for Predicting Antimicrobial Resistance Profiles in Gram-negative Bacilli from Whole Genome Sequence Data](https://doi.org/10.3389/fmicb.2016.01887)
+tries to come up with a *genotype-based antibiotic susceptibility prediction (GBASP)* algorithm (i.e. predict resistance from the genome rather than the phenotype) that ''could more rapidly provide all of the information given by current phenotypic AST methods'' (i.e. grow'em kill'em-lab-approach), especially susceptibility information. They used the whole genome as input into their models (one ML, one rules-based, probably a decision tree?). They also [reviewed data quality and congruence across several genomics databases](https://simatai.github.io/2017/02/27/existing-datasources/). To *translate resistance gene identifications into resistance and susceptibility predictions*, they compared a rules-based algorithm to a machine learning approach on the ''resistance profiles of 78 previously characterized genome-sequenced Enterobacteriaceae isolates (Pesesky et al., 2015) to 12 antibiotics.''
 
 Coelho et al. (2013): [The Use of Machine Learning Methodologies to Analyse Antibiotic and Biocide Susceptibility in Staphylococcus aureus](http://dx.doi.org/10.1371/journal.pone.0055582)
 
