@@ -23,7 +23,7 @@ from feature importance calculated using RF (the paper shows example for tubercu
 [Durrant](https://amarolab.ucsd.edu/~jdurrant/) and Amaro (2015): [Machine-Learning Techniques Applied to Antibacterial Drug Discovery](https://doi.org/10.1111/cbdd.12423)
 Also available from [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273861/).
  
-[Evaluation of Machine Learning and Rules-Based Approaches for Predicting Antimicrobial Resistance Profiles in Gram-negative Bacilli from Whole Genome Sequence Data](https://doi.org/10.3389/fmicb.2016.01887)
+[Pesesky](http://www.dantaslab.org/people/) et al. (2016): [Evaluation of Machine Learning and Rules-Based Approaches for Predicting Antimicrobial Resistance Profiles in Gram-negative Bacilli from Whole Genome Sequence Data](https://doi.org/10.3389/fmicb.2016.01887)
 
 Coelho et al. (2013): [The Use of Machine Learning Methodologies to Analyse Antibiotic and Biocide Susceptibility in Staphylococcus aureus](http://dx.doi.org/10.1371/journal.pone.0055582)
 
