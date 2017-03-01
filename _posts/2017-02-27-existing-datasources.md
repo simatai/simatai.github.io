@@ -6,7 +6,7 @@ layout: post
 
 I surveyed existing, publicly available data sources that could be sources for data to be fed into models. 
 
-## Databases specific to antibiotics resistance research
+### Databases specific to antibiotics resistance research
 
 [Pathosystems Resource Integration Center](https://www.patricbrc.org/) collects ''known antibiotic resistance genes from reputed external databases and publications'' and ''incorporates antibiotic susceptibility testing results as additional genome metadata.'' It also contains the genomes of bacteria. Its data was used in [https://arxiv.org/pdf/1607.01224.pdf](https://arxiv.org/pdf/1607.01224.pdf).
 
@@ -18,7 +18,7 @@ Database of resistance genes, their products and associated phenotypes.
 
 No longer maintained (last update 2009), all data can be found in CARD. Flat files are available for download.
 
-## Databases on molecular interactions
+### Databases on molecular interactions
 
 [MOAD](http://bindingmoad.org/)
 
