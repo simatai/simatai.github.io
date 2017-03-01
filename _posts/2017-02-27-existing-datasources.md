@@ -8,6 +8,8 @@ I surveyed existing, publicly available data sources that could be sources for d
 
 ## Databases specific to antibiotics resistance research
 
+[Pathosystems Resource Integration Center](https://www.patricbrc.org/) collects ''known antibiotic resistance genes from reputed external databases and publications'' and ''incorporates antibiotic susceptibility testing results as additional genome metadata.'' It also contains the genomes of bacteria. Its data was used in [https://arxiv.org/pdf/1607.01224.pdf](https://arxiv.org/pdf/1607.01224.pdf).
+
 [Comprehensive Antibiotic Resistance Database, CARD](https://card.mcmaster.ca/home)  https://card.mcmaster.ca/home
 
 Database of resistance genes, their products and associated phenotypes.
