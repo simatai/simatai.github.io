@@ -26,4 +26,6 @@ While no less important, the following issues will be less in the focus of this 
 
 + *discovering antibiotics is one thing, getting them to market quite another*. The pharmaceutical industry has mostly exited antibiotics research in favor of research on treatments of chronic diseases (those have far higher net present values). That represents a huge market failure, not only because it is quite cynical, but also because it means that the entire professional and efficient chain of production to scale any discovery in the academic sector is not available for new antibiotics.
 
+What can be done about this? There was a [recent review in 10.1038/ja.2015.98](https://doi.org/10.1038/ja.2015.98) on the incentive problems associated with antibiotics research.
+
 
