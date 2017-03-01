@@ -23,4 +23,4 @@ From the [review article by Kohanski et al (2010)](https://www.ncbi.nlm.nih.gov/
 Was taken up, but it's uncertain if it is true, see [10.1126/science.1232688](https://doi.org/10.1126/science.1232688)
 
 
-<iframe width='853' height='480' src='https://embed.coggle.it/diagram/WLXgrBiKogAB7V1r/3a50feaf238f42613f05f2c12f584c9e09d6203deeedc46268b20ed201c82a71' frameborder='0' allowfullscreen></iframe>
+<iframe width='853' height='480' src='https://embed.coggle.it/diagram/WLXgrBiKogAB7V1r/' frameborder='0' allowfullscreen></iframe>
