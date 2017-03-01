@@ -19,7 +19,7 @@ I surveyed existing, publicly available data sources that could be sources for d
 [Antibiotic Resistance Genes Database, ARGD](https://ardb.cbcb.umd.edu/) is no longer maintained (last update 2009), all data can be found in CARD. Flat files are available for download.
 
 ### Bacterial genomics
-https://www.onecodex.com/)
+
 [One Codex](https://www.onecodex.com/) is a data platform for applied microbial genomics, where you can also ''search the world's largest index of bacterial, viral, and fungal genomes''.
 
 ### Databases on molecular interactions
