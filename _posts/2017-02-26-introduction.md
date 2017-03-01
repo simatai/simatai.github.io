@@ -4,7 +4,7 @@ date: 2017-02-26
 layout: post
 ---
 
-# Antibiotic resistance is a problem
+**Antibiotic resistance is a problem**
 ... which is why this blog will be dedicated to reporting work on **applications of Machine Learning and methods of Artificial Intelligence to the problem of antibiotics resistance**. There was a recent *[Call to Arms on arxiv](https://arxiv.org/pdf/1607.01224.pdf)*, and since I was looking for an interesting and important problem to spend some leisure on, I thought this is it. 
 
 # Research agenda
@@ -24,6 +24,6 @@ While no less important, the following issues will be less in the focus of this 
 
 + *antibiotics resistance is a social problem* brought about by unfavorable, long-standing patterns in prescriptions, high and rising meat consumption by the Worlds middle and upper class (antibiotics are in widespread use in agriculture). The rise of multi-resistant bacterial strains is a problem of hospital hygiene management.
 
-+ *discovering antibiotics is one thing, getting them to market quite another*. The pharamceutical industry has mostly exited antibiotics research in favor of research on treatments of chronic diseases (those have far higher net present values). That represents a huge market failure, not only because it is quite cynical, but also because it means that the entire professional and efficient chain of production to scale any discovery in the academic sector is not available for new antibiotics.
++ *discovering antibiotics is one thing, getting them to market quite another*. The pharmaceutical industry has mostly exited antibiotics research in favor of research on treatments of chronic diseases (those have far higher net present values). That represents a huge market failure, not only because it is quite cynical, but also because it means that the entire professional and efficient chain of production to scale any discovery in the academic sector is not available for new antibiotics.
 
 
