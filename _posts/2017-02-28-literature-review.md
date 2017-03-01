@@ -17,10 +17,10 @@ The book is available for free from Frontiers.
 
 ### Machine learning and AI in drug and antibiotics discovery
 
-Santerre et al. (2016): [Machine Learning for Antimicrobial Resistance](https://arxiv.org/pdf/1607.01224.pdf) used genome data from the [PATRIC](https://www.patricbrc.org) database to train a random forest to predict if a given genome leads to a phenotype resistant to antibiotics. PATRIC contains annotated genomes, i.e. there are labels available like ''susceptible to antibiotics'' versus ''non-susceptibe''. They were able to generate a list of top gene regions potentially responsible for AMR (by PATRIC ID), identified
+Santerre, [Stevens](https://www.anl.gov/contributors/rick-stevens) et al. (2016): [Machine Learning for Antimicrobial Resistance](https://arxiv.org/pdf/1607.01224.pdf) used genome data from the [PATRIC](https://www.patricbrc.org) database to train a random forest to predict if a given genome leads to a phenotype resistant to antibiotics. PATRIC contains annotated genomes, i.e. there are labels available like ''susceptible to antibiotics'' versus ''non-susceptibe''. They were able to generate a list of top gene regions potentially responsible for AMR (by PATRIC ID), identified
 from feature importance calculated using RF (the paper shows example for tuberculosis MTB).
 
-Durrant and Amaro (2015): [Machine-Learning Techniques Applied to Antibacterial Drug Discovery](https://doi.org/10.1111/cbdd.12423)
+[Durrant](https://amarolab.ucsd.edu/~jdurrant/) and Amaro (2015): [Machine-Learning Techniques Applied to Antibacterial Drug Discovery](https://doi.org/10.1111/cbdd.12423)
 Also available from [NCBI](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4273861/).
  
 [Evaluation of Machine Learning and Rules-Based Approaches for Predicting Antimicrobial Resistance Profiles in Gram-negative Bacilli from Whole Genome Sequence Data](https://doi.org/10.3389/fmicb.2016.01887)
