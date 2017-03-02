@@ -32,6 +32,8 @@ MOAD was the basis for the work by [Durrant et al.](https://amarolab.ucsd.edu/~j
 
 PDBbind-CN is another database on protein binding mentioned in [10.1111/cbdd.12423](https://doi.org/10.1111/cbdd.12423). It contains binding affinity data for all types of biomolecular complexes.
 
+[Directory of Useful Decoys](http://dud.docking.org/)
+
 ### Molecular structure and small molecules
 
 [PubChem](https://pubchem.ncbi.nlm.nih.gov/search/) also records bioactivity of compounds.
