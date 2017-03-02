@@ -33,6 +33,9 @@ Yang et al. (2016): **[ARGs-OAP: online analysis pipeline for antibiotic resista
 
 ### In silico experiments on drug resistance
 
+**[AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery](https://arxiv.org/pdf/1510.02855.pdf)** is the only paper by [AtomWise](http://www.atomwise.com/introducing-atomnet/), a CADD firm.
+It is strange that there seem to be no public initiatives on using more Deep Learning for drug research?!
+
 **[New insights into bacterial adaptation through in vivo and in silico experimental evolution](https://doi.org/10.1038/nrmicro2750)**
 
 ### Mechanisms of antibiotic resistance
