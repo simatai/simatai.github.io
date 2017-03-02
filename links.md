@@ -15,3 +15,7 @@ mentioned that [co-add.org](http://www.co-add.org/content/the-project) might rel
 [atomwise.com](www.atomwise.com) developed atomnet, a deep convnet to help drug design.
 http://www.twoxar.com/
 http://www.cloudpharmaceuticals.com/
+
+### (CADD) Software
+
+[ODDT](https://doi.org/10.1186/s13321-015-0078-2)
