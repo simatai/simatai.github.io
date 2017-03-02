@@ -35,7 +35,7 @@ Yang et al. (2016): **[ARGs-OAP: online analysis pipeline for antibiotic resista
 
 **[AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery](https://arxiv.org/pdf/1510.02855.pdf)** is the only paper by [AtomWise](http://www.atomwise.com/introducing-atomnet/), a CADD firm.
 
-Ramsundar et al: **[Massively multitask networks for drug discovery](https://arxiv.org/pdf/1502.02072.pdf)** from the [Pande Lab](https://pande.stanford.edu/) is one of the research groups working on applications of Deep Learning on QSAR and drug discovery through virtual screening. Also need to check the work by Dahl et al., the winners of the Merck Kaggle Competition of 2012.
+Ramsundar et al: **[Massively multitask networks for drug discovery](https://arxiv.org/pdf/1502.02072.pdf)** from the [Pande Lab](https://pande.stanford.edu/) is one of the research groups working on applications of Deep Learning on QSAR and drug discovery through virtual screening. Also need to check the [work by Dahl et al.](https://arxiv.org/abs/1406.1231), the winners of the Merck Kaggle Competition of 2012.
 
 **[New insights into bacterial adaptation through in vivo and in silico experimental evolution](https://doi.org/10.1038/nrmicro2750)**
 
