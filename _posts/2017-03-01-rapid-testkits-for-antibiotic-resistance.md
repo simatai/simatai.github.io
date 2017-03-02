@@ -13,8 +13,8 @@ sampling from a patient to sequencing to diagnosis, and they provide an excellen
 
 In fact I had thought about combining the awesome [Nanopore sequencer](https://nanoporetech.com/) available for 1000 USD (!) with 
 [known ML](https://simatai.github.io/2017/02/28/literature-review/) to produce such a device -- but I guess someone else will be 
-faster so it might be something for a [:Make](http://www.makezine.com). I don't know [if my thesis supervisors' DNA 
-multiplier](http://prl.aps.org/abstract/PRL/v104/i18/e188102) might 
+faster so it might be something for a [:Make](http://www.makezine.com). I don't know [this DNA 
+multiplier by Dieter Braun](http://prl.aps.org/abstract/PRL/v104/i18/e188102) might 
 actually work to multiply k-mers from bacterial DNA fast and safely enough to feed into the Nanopore device. It seems [possible to extract DNA from bacteria pretty quickly](https://www.thermofisher.com/us/en/home/life-science/dna-rna-purification-analysis/dna-extraction/genomic-dna-extraction/bacteria-dna-extraction.html) for 200 USD. The problem seems to be that a typical sample from a patient 
 
 + contains multiple species of bacteria
